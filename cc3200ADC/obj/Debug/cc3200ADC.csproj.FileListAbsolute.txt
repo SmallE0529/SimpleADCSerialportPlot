@@ -1,0 +1,9 @@
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\bin\Debug\cc3200ADC.exe.config
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\bin\Debug\cc3200ADC.exe
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\bin\Debug\cc3200ADC.pdb
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\obj\Debug\cc3200ADC.csprojResolveAssemblyReference.cache
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\obj\Debug\cc3200ADC.Form1.resources
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\obj\Debug\cc3200ADC.Properties.Resources.resources
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\obj\Debug\cc3200ADC.csproj.GenerateResource.Cache
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\obj\Debug\cc3200ADC.exe
+E:\VisualStudioCode\cc3200ADC\cc3200ADC\obj\Debug\cc3200ADC.pdb
